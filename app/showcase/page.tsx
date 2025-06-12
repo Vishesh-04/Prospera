@@ -22,21 +22,6 @@ const Showcase = () => {
         
 
         <br /><br /><br />
-
-        <div className="">
-            <h1><WordPullUp
-            className="text-4xl md:text-5xl md:text-center font-medium"
-            words="Sample Counselling Session"
-            />
-            </h1>
-            <br /><br />
-            
-            <div className="flex justify-center items-center h-full">
-            </div>
-            <br /><br />
-            
-            
-        </div>
         
 
 
